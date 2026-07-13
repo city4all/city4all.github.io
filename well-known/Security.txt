@@ -1,0 +1,4 @@
+Contact: mailto:security@city4all.nl
+Expires: 2036-07-13T18:52:00Z
+Canonical: https://city4all.nl/.well-known/security.txt
+Preferred-Languages: en, nl
